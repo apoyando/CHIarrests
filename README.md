@@ -14,6 +14,6 @@ My project seeks to answer the following questions through deep learning: What c
 
 ---
 
-(1): Altheimer, I., Douglas, A. & Contreras, V (2025). _2024 Homicide Statistics for 24 U.S. Cities_. Rochester Institute of Technology, Center for Public Safety Initiatives.
+(1): Altheimer, I., Douglas, A. & Contreras, V (2025). _2024 Homicide Statistics for 24 U.S. Cities_. Rochester Institute of Technology, Center for Public Safety Initiatives. https://www.scribd.com/document/878499926/2024-Homicide-Statistics-for-24-U-S-Cities
 
 (2): Andriesen, P. (2025, January 29). Chicago violent crime trends up as arrests trend down. Illinois Policy. https://www.illinoispolicy.org/chicago-violent-crime-trends-up-as-arrests-trend-down/
